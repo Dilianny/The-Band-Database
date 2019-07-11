@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string-array name="bands">
+        <item> The Beatles</item>
+        <item> Nirvana</item>
+        <item>U2</item>
+        <item> AC/DC</item>
+        <item> Adam and The Ants</item>
+        <item>Nine Inch Nails</item>
+        <item> Skinny Puppy</item>
+        <item> Ministry</item>
+        <item> Front 242</item>
+        <item> KMFDM</item>
+        <item> Front Line Assembly</item>
+        <item>Throbbing Gristle</item>
+        <item> Rammstein</item>
+        <item> Coil</item>
+        <item>Die Krupps</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item> An English rock band</item>
+        <item> An American rock band</item>
+        <item>An Irish rock band</item>
+        <item> An Australian rock band, formed in 1973</item>
+        <item> An English new wave band active during the late 1970s</item>
+        <item>An American industrial rock band, founded in 1988 by Trent Reznor in Cleveland, Ohio.</item>
+        <item> A Canadian industrial music group, formed in Vancouver, British Columbia, in 1982.</item>
+        <item> An American industrial metal band founded by lead singer Al Jourgensen in 1981</item>
+        <item>A Belgian electronic music group that came into prominence during the 1980s.</item>
+        <item> Band led by German multi-instrumentalist Sascha Konietzko, who founded the group in 1984 as a performance art project.</item>
+        <item> Front Line Assembly is a Canadian electro-industrial band formed by Bill Leeb in 1986 after leaving Skinny Puppy</item>
+        <item> An English music and visual arts group that evolved from the performance art group COUM Transmissions in 1975</item>
+        <item> A German Neue Deutsche HÃ¤rte/industrial metal band formed in 1994 in Berlin</item>
+        <item> An English cross-genre, experimental music group formed in 1982 by John Balance</item>
+        <item>A German industrial rock/EBM band, formed in 1980. </item>
+    </string-array>
+</resources>
